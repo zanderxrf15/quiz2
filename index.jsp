@@ -26,7 +26,7 @@
       <a href="#" class="logo">
         <img src="images/logo.png" />
       </a>
-      <!--menu--btn----------------->
+      <!--menu-btn----------------->
       <input type="checkbox" class="menu-btn" id="menu-btn" />
       <label class="menu-icon" for="menu-btn">
         <span class="nav-icon"></span>
